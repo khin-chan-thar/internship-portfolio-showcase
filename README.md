@@ -53,9 +53,16 @@ During my internship, I contributed to the development and enhancement of the Ho
 
 - Laragon
 - Git & GitHub
+
+## Source Code Availability
+
+Due to internship project confidentiality and project ownership considerations, the complete source code is not publicly available in this repository.
+
+This repository is provided as a portfolio showcase to demonstrate my contributions, implemented features, technical skills, and internship experience.
+
 ## Screenshots
 
-Screenshots of my contributions and project features are included in this repository.
+Screenshots are included to demonstrate the features and interfaces I contributed to during my internship.
 
 ## Live Demo
 
